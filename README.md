@@ -7,3 +7,5 @@ Create and continuously update relevant KPI
 Excel proved to be insufficient (far too slow) past week 4, moved to R / Python
 
 Updated until week 7 data in R
+
+Data: Too large, currently in 'fall 2020' directory
